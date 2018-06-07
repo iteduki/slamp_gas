@@ -63,4 +63,4 @@ Select `OAuth & Permissions` from Features menu.
 # Usage
 type below in slack.
 
-/stamp :custom_emoji:
+`/stamp :custom_emoji:`
